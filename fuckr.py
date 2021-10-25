@@ -7,6 +7,7 @@ os.system("pkg install toilet")
 os.system("clear")
 os.system("toilet -f mono12 -F metal Fuckr")
 print("Tool Maked By @yusiqo")
+print("Version: 1.0.0)
 print(""" 
 
 (1) Paketleri Indir
